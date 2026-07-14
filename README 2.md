@@ -1,6 +1,6 @@
 # Invierte360 — Fase 1
 
-Calculadora de independencia financiera (FI) en español. 100% HTML/CSS/JS estático, sin backend, lista para GitHub Pages.
+Invierte360 es una plataforma de planificación financiera que ayuda a calcular la independencia financiera, simular estrategias de retiro y proyectar el crecimiento del patrimonio mediante herramientas intuitivas.
 
 ## Estado de esta fase
 
